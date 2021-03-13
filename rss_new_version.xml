@@ -6,7 +6,7 @@
             <title>Nova versão disponível</title>
             <description></description>
             <pubDate></pubDate>
-            <enclosure url="https://play.google.com/store/apps/details?id=br.com.energyinfo.forcadevendaserpplus" sparkle:version="2.3.8" sparkle:os="android" />
+            <enclosure url="https://play.google.com/store/apps/details?id=br.com.energyinfo.forcadevendaserpplus" sparkle:version="2.3.10" sparkle:os="android" />
         </item>
     </channel>
 </rss>
